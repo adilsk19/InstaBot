@@ -5,7 +5,7 @@ features:-Auto login, auto skip notification,auto suggested search results based
 
 Requirements:- Selenium chrome driver,python3 compilor, working net connection
 
-inputs:- UserID,UserPassword Like hashtag looping 
+inputs:- UserID,UserPassword, Like "hashtag" for looping 
 
 bugs:-looping constrents
 
